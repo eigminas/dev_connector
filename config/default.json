@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://eigminas:862065851@devconnector.dho2r.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "lalalaba"
+}
