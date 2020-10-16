@@ -1,6 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://eigminas:862065851@devconnector.dho2r.mongodb.net/DevConnector?retryWrites=true&w=majority",
-    "jwtSecret": "lalalaba",
-    "githubClientId": "94e7c82a3dad1ba3bb9b",
-    "githubSecret": "7d1615f3c2b1c085ce69e58e1908de939aaba6e8"
+    "mongoURI": "mongodb+srv://eigminas:<>@devconnector.dho2r.mongodb.net/DevConnector?retryWrites=true&w=majority",
+    "jwtSecret": "<>",
+    "githubClientId": "<>",
+    "githubSecret": "<>"
 }
